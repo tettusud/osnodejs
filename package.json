@@ -1,0 +1,19 @@
+{
+  "name": "osnodejs",
+  "version": "1.0.0",
+  "description": "Nodejs template to deploy on open shift v3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tettusud/osnodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tettusud/osnodejs/issues"
+  },
+  "homepage": "https://github.com/tettusud/osnodejs#readme"
+}
