@@ -13,7 +13,8 @@ Nodejs template to deploy on open shift v3
    git push
 
 4) create an app on os
+  oc new-app https://github.com/<your_user>/<your_git_repo>
 
 5) oc project  <project name>
-
+   oc status
 6) oc start-build  <projectname>
